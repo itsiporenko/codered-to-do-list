@@ -1,2 +1,2 @@
-# django-to-do-list
-RedPython To-Do List App
+# codered-to-do-list
+CodeRed Python To-Do List App
